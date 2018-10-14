@@ -5,7 +5,7 @@
   "window": {
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#40a7e7",
-    "navigationBarTitleText": "轻天气",
+    "navigationBarTitleText": "天气小程序",
     "navigationBarTextStyle": "light"
   }
 }
