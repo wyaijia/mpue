@@ -64,7 +64,7 @@ import weather from "@/components/weather-info";
 import infoItem from "@/components/info-item"
 //提示语
 import { messages } from "@/common/js/message";
-//import { formatNumber, formatTime } from "@/utils/index";
+import { formatNumber, formatTime } from "@/utils/index";
 
 export default {
   data() {
